@@ -1,3 +1,3 @@
 ##Slave operation is run successfully 
 
-![Replication](https://lh3.googleusercontent.com/0vIeGFEih7g0LZcVJZ3CcdVoI9WeqgYOkMrKl3GM2QBJdpzKKiK7SunArRxgg-YIAJ3fG7MWcDxrT8s=w1366-h633)
+![Replication](https://github.com/latifrozi/SEBC/blob/master/installation/png/2_replica_working/%5B10%5D%20Finish.PNG)
