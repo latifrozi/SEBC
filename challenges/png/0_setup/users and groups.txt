@@ -1,0 +1,6 @@
+vladimir:x:2800:2800::/home/vladimir:/bin/bash
+donald:x:2700:2700::/home/donald:/bin/bash
+
+
+hackers:x:2801:vladimir
+crackers:x:2701:donald
